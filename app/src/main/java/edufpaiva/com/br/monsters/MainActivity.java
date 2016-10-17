@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements Request.RequestListener {
     private ArrayList<Monstro> lista;
-
+    //TESTE DE COMMIT
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements Request.RequestLi
     public void onRequestOk(String s, JSONObject jsonObject, int code) {
 
         if (code == Request.NENHUM_ERROR) {
-            lista = new ArrayList<Monstro>();
+            lista = new ArrayList();
             Log.d("LOG","Status conexa NENHUM ERRO");
 
             if (s != null) {
