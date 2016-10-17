@@ -1,0 +1,32 @@
+{
+  "monstros": [
+    {
+      "nome": "Vampiro",
+      "imortal": true,
+      "fraqueza": "alho",
+      "forca": 99,
+      "imagem": "http://1.bp.blogspot.com/-OWKOKhsBoaM/T6uBGj1jvvI/AAAAAAAAACg/IMQgi2TsgJ4/s1600/mtg_bloodlinekeeper.jpg"
+    },
+    {
+      "nome": "Lobisomem",
+      "imortal": false,
+      "fraqueza": "bala de prata",
+      "forca": 120,
+      "imagem": "https://s-media-cache-ak0.pinimg.com/564x/39/e3/61/39e36135627928611fb0da893b5019f0.jpg"
+    },
+    {
+      "nome": "Medusa",
+      "imortal": true,
+      "fraqueza": "espelhos",
+      "forca": 45,
+      "imagem": "https://s-media-cache-ak0.pinimg.com/originals/cb/8a/cb/cb8acbf902e2b36347755d21deb9bd37.jpg"
+    },
+    {
+      "nome": "Gigante",
+      "imortal": false,
+      "fraqueza": "fogo",
+      "forca": 150,
+      "imagem": "https://s-media-cache-ak0.pinimg.com/236x/70/5d/99/705d997671f97273e1b2b096054e9807.jpg"
+    }
+  ]
+}
